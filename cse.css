@@ -1,0 +1,292 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  height: 100%;
+  width: 100%;
+}
+
+.page1 {
+  height: 100%;
+  width: 100%;
+}
+
+.img1 {
+  height: 76%;
+  width: 100%;
+}
+
+.img1 img {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+}
+
+.nav1 {
+  height: 60px;
+  width: 100%;
+  display: flex;
+  position: absolute;
+  top: 0;
+}
+
+.left {
+  height: 100%;
+  width: 56%;
+}
+
+.right {
+  margin-top: 30px;
+  margin-left: 50px;
+  height: 100%;
+  width: 44%;
+  color: white;
+}
+
+.right a {
+  font-size: 25px;
+  margin-right: 50px;
+  text-decoration: none;
+  color: white;
+}
+
+.middle {
+  height: 300px;
+  width: 40%;
+  position: absolute;
+  color: white;
+  top: 30%;
+  left: 32%;
+}
+
+.top {
+  height: 45%;
+  width: 100%;
+}
+
+.top h1 {
+  text-align: center;
+  font-size: 80px;
+}
+
+.bottom p {
+  text-align: center;
+  font-size: 50px;
+}
+
+.lower {
+  margin-top: 20px;
+  height: 24%;
+  width: 100%;
+  text-align: center;
+  font-size: 40px;
+}
+
+.lower i {
+  color: red;
+}
+
+.lower p {
+  font-size: 30px;
+  padding-top: 50px;
+  text-align: center;
+}
+
+.page2 {
+  height: 100%;
+  width: 100%;
+  margin-top: 25px;
+}
+
+.nav2 {
+  display: flex;
+  height: 60%;
+  width: 100%;
+  justify-content: space-between;
+}
+
+.x {
+  height: 100%;
+  width: 30%;
+}
+
+.img {
+  height: 70%;
+  width: 100%;
+}
+
+.img img {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+}
+
+.bold {
+  height: 17%;
+  width: 100%;
+}
+
+.light {
+  height: 12%;
+  width: 100%;
+}
+
+.light h4 {
+  font-size: 22px;
+}
+
+.nav3 {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  top: 166%;
+}
+
+.map {
+  height: 400px;
+  width: 100%;
+  background-color: beige;
+}
+
+.map img {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+}
+.nav3 h2 {
+  font-size: 40px;
+}
+
+.loc {
+  height: 45%;
+  width: 100%;
+  display: flex;
+}
+
+.c {
+  height: 100%;
+  width: 25%;
+}
+
+.m {
+  height: 17%;
+  width: 100%;
+  font-size: 25px;
+}
+
+.nav4 {
+  border-top: 1px solid #c4bbbb;
+  height: 80%;
+  width: 100%;
+  position: absolute;
+  top: 266%;
+}
+
+.nav4 h1 {
+  font-size: 40px;
+}
+
+.con {
+  height: 69%;
+  width: 100%;
+  display: flex;
+}
+
+.n {
+  width: 25%;
+  height: 100%;
+}
+
+.k {
+  height: 12.5%;
+  font-size: 28px;
+  width: 100%;
+}
+
+.nav5 {
+  height: 50%;
+  width: 100%;
+  position: absolute;
+  top: 336%;
+  border-top: 3px solid rgb(205, 199, 199);
+  display: flex;
+}
+
+.lem {
+  height: 100%;
+  width: 35%;
+}
+
+.to {
+  height: 30%;
+  width: 100%;
+}
+.bt {
+  height: 70%;
+  width: 100%;
+}
+
+.to h1 {
+  font-size: 60px;
+  padding-top: 30px;
+  margin-left: 20px;
+}
+
+.bt img {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+}
+
+.rim {
+  height: 100%;
+  width: 65%;
+  display: flex;
+}
+
+.k:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.m:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.xx {
+  height: 100%;
+  width: 50%;
+}
+
+.yy {
+  height: 100%;
+  width: 50%;
+}
+
+.d {
+  height: 18%;
+  width: 100%;
+  text-transform: capitalize;
+  margin-left: 45%;
+  font-size: 25px;
+}
+
+.d:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.d:active {
+  color: blue;
+}
+.k:active {
+  color: blue;
+}
+.m:active {
+  color: blue;
+}
